@@ -112,7 +112,7 @@ The dedicated `key_measures` table keeps these formulas organized, ensuring best
 - Measure specific marketing campaign ROI for smarter investment and message targeting.
 - Continuously benchmark against peers for competitive advantage and innovation.
 
-Here are clear, actionable recommendations for hotel stakeholders and business owners, based both on present dashboard visuals and on deeper insights available through Level 2 (Advanced Drilldowns). This aims to maximize business impact and ROI using your Power BI solution.[1][2][3][4][5]
+Here are clear, actionable recommendations for hotel stakeholders and business owners, based both on present dashboard visuals and on deeper insights available through Level 2 (Advanced Drilldowns). This aims to maximize business impact and ROI using your Power BI solution.
 
 ***
 
