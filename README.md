@@ -37,20 +37,8 @@ This model enables rapid analytics, easy drilldowns, and modular growth for new 
 
 Every business-critical calculation was created as a reusable DAX measure:
 
-| **Metric**         | **Purpose / Formula (DAX)**                                               | **Tables Used**      |
-|--------------------|---------------------------------------------------------------------------|----------------------|
-| Revenue            | `SUM(fact_bookings[revenue_realized])`                                    | fact_bookings        |
-| Total Bookings     | `COUNT(fact_bookings[booking_id])`                                        | fact_bookings        |
-| Total Capacity     | `SUM(fact_aggregated_bookings[capacity])`                                 | fact_aggregated_bookings |
-| Occupancy %        | `DIVIDE([Total Successful Bookings],[Total Capacity],0)`                  | fact_aggregated_bookings |
-| Average Rating     | `AVERAGE(fact_bookings[ratings_given])`                                   | fact_bookings        |
-| ADR                | `DIVIDE([Revenue], [Total Bookings],0)`                                   | fact_bookings        |
-| Realisation %      | `1- ([Cancellation %]+[No Show rate %])`                                  | fact_bookings        |
-| RevPAR             | `DIVIDE([Revenue],[Total Capacity])`                                      | fact_bookings, aggregated |
-| WoW Metrics        | Week-on-week change formulas using VAR, CALCULATE, and DIVIDE             | dim_date             |
-| ... and more listed above |
 
-Here is a table listing all the 26 DAX measures with their formulas, source tables, columns used, and purpose. This can be directly copy-pasted into your README file for clear documentation:
+Here is a table listing all the 26 DAX measures with their formulas, source tables, columns used, and purpose.:
 
 | Sl No | Metric                  | Formula (DAX)                                                                                                                                                                                                                       | Table(s) Used            | Columns Used                        | Description / Purpose                                                                                     |
 |-------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -83,17 +71,6 @@ Here is a table listing all the 26 DAX measures with their formulas, source tabl
 
 ***
 
-This structured table effectively documents all your measures for clarity and future reference in professional project documentation.
-
-[1](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-measures)
-[2](https://learn.microsoft.com/en-us/dax/dax-overview)
-[3](https://github.com/PowerBI-tips/DAX-Templates)
-[4](https://thebipower.fr/index.php/dax-generator-documentation/)
-[5](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/blog/12-essential-power-bi-dax-formulas-every-report-creator-should-master)
-[6](https://www.notjustaprettydashboard.com/auto-documentation-report-using-info-view-dax-functions/)
-[7](https://learn.microsoft.com/en-us/power-bi/transform-model/quick-measure-suggestions)
-[8](https://radacad.com/document-a-power-bi-file-and-report-in-a-few-clicks-all-dax-code-visualization-power-query-scripts/)
-[9](https://forum.enterprisedna.co/t/documentation-power-bi-project/26422)
 
 The dedicated `key_measures` table keeps these formulas organized, ensuring best practices in development and future scalability.
 
