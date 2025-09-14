@@ -75,7 +75,7 @@ Here is a table listing all the 26 DAX measures with their formulas, source tabl
 The dedicated `key_measures` table keeps these formulas organized, ensuring best practices in development and future scalability.
 
 ## Dashboard Visuals
-
+![alt text](Hotel_Analytics.png)
 ### Core Visuals
 
 - **Top KPIs**: Large cards for revenue, occupancy %, ADR, RevPAR, realization %, and DSRN.
@@ -139,22 +139,22 @@ Here are clear, actionable recommendations for hotel stakeholders and business o
 ## Strategic Decisions Enabled by Level 2 Analysis (Advanced Drilldowns)
 
 - **Granular Channel & Segment Analysis:**  
-  Drill down by booking platform, room class, or guest segment. Identify which channels or products drive the best realization, occupancy, and revenue—enabling precise, data-backed allocation of marketing budget, and strategic partnerships.[3][7][2]
+  Drill down by booking platform, room class, or guest segment. Identify which channels or products drive the best realization, occupancy, and revenue—enabling precise, data-backed allocation of marketing budget, and strategic partnerships.
 
 - **Actionable Cause Diagnosis:**  
-  Use drilldowns into cancellation and no-show rates by city, platform, or guest segment to uncover specific causes. Launch focused retention, engagement, or operational reforms where drop-offs occur (e.g., particular platforms or guest types).[8][9][5]
+  Use drilldowns into cancellation and no-show rates by city, platform, or guest segment to uncover specific causes. Launch focused retention, engagement, or operational reforms where drop-offs occur (e.g., particular platforms or guest types.)
 
 - **Demand Forecasting & Inventory Planning:**  
-  Apply week-over-week metrics and historical trend analysis to forecast peak and off-peak periods. Adjust room pricing, staffing, and availability proactively, anticipating local events or market shifts for optimal inventory and service levels.[3][6]
+  Apply week-over-week metrics and historical trend analysis to forecast peak and off-peak periods. Adjust room pricing, staffing, and availability proactively, anticipating local events or market shifts for optimal inventory and service levels.
 
 - **Marketing ROI Measurement:**  
-  Analyze the impact of promotions and campaigns by tracking targeted periods vs. control. Attribute revenue, occupancy, and guest satisfaction changes to specific efforts to finetune future campaigns.[10][2]
+  Analyze the impact of promotions and campaigns by tracking targeted periods vs. control. Attribute revenue, occupancy, and guest satisfaction changes to specific efforts to finetune future campaigns.
 
 - **Competitive Benchmarking:**  
-  Integrate external market data and benchmark performance against peers, using RevPAR, ADR, and occupancy levels to guide investment and competitive positioning.[9][1]
+  Integrate external market data and benchmark performance against peers, using RevPAR, ADR, and occupancy levels to guide investment and competitive positioning.
 
 - **Product & Service Differentiation:**  
-  Segment data by luxury vs. business, room class, city, or region. Discover emerging demand trends and develop targeted offerings or amenities (e.g., remote work packages, wellness stays) for specific customer groups.[3]
+  Segment data by luxury vs. business, room class, city, or region. Discover emerging demand trends and develop targeted offerings or amenities (e.g., remote work packages, wellness stays) for specific customer groups.
 
 ***
 
