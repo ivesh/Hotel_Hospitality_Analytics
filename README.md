@@ -29,7 +29,7 @@ The Power BI solution utilizes a **star schema**, ensuring efficient queries and
   - `dim_rooms`(4 Rows, 2 Columns): Room classification  
   - `dim_date`(92 Rows, 6 Columns): Calendar features for time intelligence
 - **Key Measures Table**:  
-  - `key_measures`: Houses central DAX measures (ADR, RevPAR, etc.) for streamlined reference and management
+  - `key_measures`(26): Houses central DAX measures (ADR, RevPAR, etc.) for streamlined reference and management
 
 This model enables rapid analytics, easy drilldowns, and modular growth for new metrics or business questions.
 
