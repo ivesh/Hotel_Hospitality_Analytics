@@ -31,7 +31,9 @@ The Power BI solution utilizes a **star schema**, ensuring efficient queries and
 - **Key Measures Table**:  
   - `key_measures`: Houses central DAX measures (ADR, RevPAR, etc.) for streamlined reference and management
 
-This model enables rapid analytics, easy drilldowns, and modular growth for new metrics or business questions.[1]
+This model enables rapid analytics, easy drilldowns, and modular growth for new metrics or business questions.
+
+Workflow: Data(csv) -> Power Query(Transform the data) -> Data Model -> DAX Measures -> Dashboard
 
 ## Key Metrics & DAX Measures
 
