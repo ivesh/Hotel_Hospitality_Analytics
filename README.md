@@ -122,7 +122,7 @@ Here are clear, actionable recommendations for hotel stakeholders and business o
   Track weekly and monthly revenue, occupancy rates, and ADR to quickly identify drop-offs or surges. For sustained low occupancy, implement targeted promotions (discounts, packages) or enhance digital marketing for underperforming periods.
 
 - **Channel Management:**  
-  Use the realization % by booking platform to shift inventory toward high-yield, low-cancellation channels. Negotiate commissions or offer exclusive deals where platforms are driving bookings but cannibalizing margins.[4][5]
+  Use the realization % by booking platform to shift inventory toward high-yield, low-cancellation channels. Negotiate commissions or offer exclusive deals where platforms are driving bookings but cannibalizing margins.
 
 - **Pricing Strategy:**  
   Compare ADR and RevPAR trends across cities and categories. Adjust pricing dynamically for weekdays vs. weekends and for business vs. luxury segments to maximize yield.
@@ -175,5 +175,5 @@ This analytical solution delivers clarity, agility, and measurable results. Owne
 - Scale insights with business growth, adding new data or analysis as needed.
 - Save time, eliminate reporting errors, and gain competitive edge—through data-backed actionable recommendations.
 
-**Hiring a data analytics expert with proven skills in Power BI, DAX modeling, and hospitality ensures sustainable profit growth—by turning complex data into decisive business advantage.**
+**Hiring me with proven skills in Power BI, DAX modeling, and hotel hospitality data will ensures sustainable profit growth—by turning complex data into decisive hotel business advantage.**
 
