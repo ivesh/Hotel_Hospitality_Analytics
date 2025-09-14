@@ -22,12 +22,12 @@ Hotel businesses struggle to consistently grow profit and manage occupancy due t
 
 The Power BI solution utilizes a **star schema**, ensuring efficient queries and flexible reporting:
 - **Fact Tables** (central):  
-  - `fact_bookings`: All booking transactions  
-  - `fact_aggregated_bookings`: Summarized booking/capacity data
+  - `fact_bookings`(1,34,590 Rows, 12 Columns): All booking transactions  
+  - `fact_aggregated_bookings`(9200 Rows, 5 Columns): Summarized booking/capacity data
 - **Dimension Tables** (surrounding):  
-  - `dim_hotels`: Hotel property info  
-  - `dim_rooms`: Room classification  
-  - `dim_date`: Calendar features for time intelligence
+  - `dim_hotels`(25 Rows, 4 Columns): Hotel property info  
+  - `dim_rooms`(4 Rows, 2 Columns): Room classification  
+  - `dim_date`(92 Rows, 6 Columns): Calendar features for time intelligence
 - **Key Measures Table**:  
   - `key_measures`: Houses central DAX measures (ADR, RevPAR, etc.) for streamlined reference and management
 
