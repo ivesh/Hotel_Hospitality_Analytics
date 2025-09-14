@@ -175,5 +175,5 @@ This analytical solution delivers clarity, agility, and measurable results. Owne
 - Scale insights with business growth, adding new data or analysis as needed.
 - Save time, eliminate reporting errors, and gain competitive edge—through data-backed actionable recommendations.
 
-**Hiring me with proven skills in Power BI, DAX modeling, and hotel hospitality data will ensures sustainable profit growth—by turning complex data into decisive hotel business advantage.**
+**Hiring me with proven skills in Power BI, DAX modeling, and hotel hospitality data will ensures sustainable profit growth—by turning complex data into decisive business advantage.**
 
