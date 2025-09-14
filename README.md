@@ -6,7 +6,7 @@ This project presents a powerful, actionable hotel analytics dashboard built in 
 
 ## Problem Statement
 
-Hotel businesses struggle to consistently grow profit and manage occupancy due to fragmented data and static reporting. The absence of real-time analytical tools limits pricing agility, operational efficiency, and targeted marketing. This project solves these challenges by combining all business-critical data, metrics, and analysis within a scalable, interactive dashboard—empowering owners to make informed decisions and drive success.[2][5]
+Hotel businesses struggle to consistently grow profit and manage occupancy due to fragmented data and static reporting. The absence of real-time analytical tools limits pricing agility, operational efficiency, and targeted marketing. This project solves these challenges by combining all business-critical data, metrics, and analysis within a scalable, interactive dashboard—empowering owners to make informed decisions and drive success.
 
 ## Dataset & Data Model Structure
 
@@ -86,7 +86,7 @@ The dedicated `key_measures` table keeps these formulas organized, ensuring best
 - **Trend Charts**: Line/area charts for weekly and monthly movement in key metrics.
 - **Channel Performance**: Bar & line combo of realization % and ADR by platform.
 - **Performance Table**: Metric breakdown by property for benchmarking and scorecarding.
-- **Conditional Formatting**: Visual data bars/icons for instant pattern recognition.[2][1]
+- **Conditional Formatting**: Visual data bars/icons for instant pattern recognition.
 
 ### Drilldown & Level 2 Analysis
 
